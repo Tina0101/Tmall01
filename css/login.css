@@ -1,0 +1,172 @@
+header{
+	// width: 100%;
+	height: 88px;
+	background: #ffffff;
+}
+.head{
+	width: 1195px;
+	height: 88px;
+	// background:yellow;
+	margin:0px auto;
+	padding-top: 30px;
+	box-sizing: border-box;
+}
+.head span{
+	font-size: 28px;
+	color: #ff0036;
+	font-weight: bold;
+}
+
+
+
+main{
+	height: 600px;
+	background:#780b10;
+	margin:0px auto;
+}
+.cen{
+	width: 1195px;
+	height: 600px;
+	background:#3d0007;
+	margin:0px auto;
+	position:relative;;
+}
+
+.cen_1{
+	width: 350px;
+	height: 405px;
+	top: 90px;
+	right:69px;
+	background:#ffffff;
+	position:absolute;
+	padding-top:9px;
+	box-sizing:border-box;
+}
+.cen_1 li{
+	width: 300px;
+	height: 40px;
+	// background:blue;
+	margin:2px 27px;
+	float:left;
+	margin-bottom:26px;
+}
+
+.cen_1 .li_2,.cen_1 .li_3{
+	border:1px solid #dddddd;
+	background:#dddddd;
+}
+
+.cen_1_1{
+	width: 145px;
+	height: 28px;
+	border: 1px solid #df9d23;
+	float:right;
+	margin-right: 58px;
+	padding-bottom: 7px;
+	color:#df9d23;
+}
+
+
+.cen_1 ul{
+	// margin:0px auto;
+	font-size:18px;
+	color:#3c3c3c;
+}
+.cen .li_1{
+	height: 22px;
+}
+.cen_1 input{
+	width: 258px;
+	height: 40px;
+	float:right;
+	border:none;
+	outline: none;
+	font-size:15px;
+}
+.cen_1 .li_4{
+	background:#ff0036;
+	text-align:center;
+	line-height:40px;
+}
+
+.cen_1 .li_5{
+	background:white;
+	padding-left: 90px;
+	box-sizing:border-box;
+}
+.cen_1 a{
+	color:#ffeafa;
+	text-decoration: none;
+}
+.cen_1 .li_5 a{
+	font-size:13px;
+	margin-right:5px;
+	color:#a4a4a4;
+}
+.cen_1 span{
+	font-size:30px;
+	margin-left: 5px;
+	line-height:40px;
+}
+.cen_1 p span{
+	font-size:17px;
+}
+
+
+
+
+footer{
+	// width: 100%;
+	height: 230px;
+	background:#ffffff;
+}
+.footer_2{
+	width: 1195px;
+	height: 237px;
+	// background:#000000;
+	margin:0px auto;
+}
+
+.footer_2 .ft_3{
+	height: 46px;
+	width: 1192px;
+	padding-top:20px;
+	color:white;
+	font-size:13px;
+}
+.footer_2 .ft_3 h5{
+    float:left;
+    margin-right:6px;
+    color:#080808;
+}
+.footer_2 .ft_4{
+	width: 1192px;
+	height: 28px;
+}
+
+.footer_2 .ft_4 h6{
+	float:left;
+	height: 20px;
+	margin-right: 13px;
+	color:white;
+	font-size:13px;
+	color:#080808;
+}
+.footer_2 .ft_5_1{
+    width: 1129px;
+    height:23px;
+    margin-bottom:1px;
+}
+.footer_2 .ft_5_1 img{
+	margin-right:2px;
+	width: 18px;
+	height: 18px;
+	float:left;
+}
+.footer_2 .ft_5_1 h5{
+	margin-right:62px;
+	font-size:12px;
+	float:left;
+	color:#a4a4a4;
+}
+
